@@ -1,0 +1,1 @@
+alert("Сработал script.js")

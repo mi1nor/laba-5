@@ -1,0 +1,1 @@
+alert("Сработал scriptThree.js")

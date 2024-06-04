@@ -1,0 +1,5 @@
+console.log('str')
+console.log(123)
+console.log(true)
+console.log(-1.02)
+console.log([1, 2, 3])
